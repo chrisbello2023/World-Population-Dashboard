@@ -4,7 +4,9 @@ A dashboard web app template built in Python using Streamlit.
 
 ## Demo App
 
-[![Streamlit App](https://world-population-dashboard-cp7er9wnegnqppoj6vczmb.streamlit.app/)
+Streamlit App<a href="https://world-population-dashboard-cp7er9wnegnqppoj6vczmb.streamlit.app/">World Population:US</a> 
+
+:https://world-population-dashboard-cp7er9wnegnqppoj6vczmb.streamlit.app/
 
 
 ## Prerequisite libraries
