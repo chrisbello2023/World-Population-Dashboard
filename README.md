@@ -1,6 +1,6 @@
 # 🏂 World Population Dashboard
 
-A dashboard web app template built in Python using Streamlit.
+A dashboard web app template built in Python using Streamlit to show the Population of different countries.
 
 ## Demo App
 
